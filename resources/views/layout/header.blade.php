@@ -5,8 +5,8 @@
              Calvin's Bookstore
          </div>
          <nav class="nav">
-             <a href="#">Home</a>
-             <a href="#">Shop</a>
+             <a href="/">Home</a>
+             <a href="/shop">Shop</a>
              <a href="#">About Us</a>
              <a href="#">Contact</a>
          </nav>
